@@ -1,10 +1,11 @@
+# cat create-namespace.yaml
 {
-"kind": "Namespace",
-"apiVersion": "v1",
-"metadata": {
-"name": "production",
-"labels": {
-"name": "production"
-}
-}
+  "kind": "Namespace",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "produccion",
+    "labels": {
+      "name": "produccion"
+    }
+  }
 }
