@@ -1,11 +1,11 @@
-# cat create-namespace.yaml
+# cat foobar.namespace.yaml
 {
   "kind": "Namespace",
   "apiVersion": "v1",
   "metadata": {
-    "name": "produccion",
+    "name": "foobar",
     "labels": {
-      "name": "produccion"
+      "name": "foobar"
     }
   }
 }
