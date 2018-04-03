@@ -1,4 +1,3 @@
-# cat foobar.namespace.yaml
 {
   "kind": "Namespace",
   "apiVersion": "v1",
