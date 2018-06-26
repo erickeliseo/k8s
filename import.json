@@ -1,0 +1,54 @@
+{
+"rows": [
+{
+"id": "1",
+"doc": {
+"json": {
+"no_hps": "81",
+"nodo_version": "4",
+"hub": "MP",
+"nodo": "MP6640B",
+"calle": "11 A",
+"zona": "5",
+"condominio": "LA TOSCANA",
+"lote": "2",
+"manzana": "A",
+"municipio": "VILLA NUEVA",
+"departamento": "GUATEMALA",
+"operador": "HOME",
+"red": "P",
+"localizacion": "VNU01",
+"direccion": "CALLE 11 A ZONA 5 COND LA TOSCANA LOTE 2 MANZ A VILLA NUEVA, GUATEMALA ",
+"lat": "14.512703521889",
+"lon": "-90.559964626906",
+"iddiras400": "0"
+}
+}
+},
+{
+"id": "2",
+"doc": {
+"json": {
+"no_hps": "81",
+"nodo_version": "4",
+"hub": "MP",
+"nodo": "MP6640B",
+"calle": "11 A",
+"zona": "5",
+"condominio": "LA TOSCANA",
+"lote": "2",
+"manzana": "A",
+"municipio": "VILLA NUEVA",
+"departamento": "GUATEMALA",
+"operador": "HOME",
+"red": "P",
+"localizacion": "VNU01",
+"direccion": "CALLE 11 A ZONA 5 COND LA TOSCANA LOTE 2 MANZ A VILLA NUEVA, GUATEMALA ",
+"lat": "14.512703521889",
+"lon": "-90.559964626906",
+"iddiras400": "0"
+}
+}
+}
+]
+}
